@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BlackFakeSlots">
+    <output-path>$PROJECT_DIR$/../../Plugins Jars</output-path>
+    <root id="archive" name="BlackFakeSlots.jar">
+      <element id="module-output" name="BlackFakeSlots" />
+    </root>
+  </artifact>
+</component>

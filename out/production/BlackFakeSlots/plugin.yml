@@ -1,0 +1,6 @@
+  name: BlackFakeSlots
+  main: black.slots.BlackSlots
+
+  version: 1.0
+  commands:
+    slots:
